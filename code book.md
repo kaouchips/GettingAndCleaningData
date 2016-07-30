@@ -1,6 +1,6 @@
-# Cookbook
+# Code book
 
-This cookbook details the data in the tables: data.txt and tidy_data.txt
+This code book details the data in the tables: data.txt and tidy_data.txt
 For more information about all the data available in this folder, please see README.md.
 
 # Data set information
