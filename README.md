@@ -11,6 +11,8 @@ and does the following:
 - Uses descriptive activity names to name the activities in the dataset.
 - Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+tidy_data.txt:
+Independent tidy data set created by the run_analysis.R script.
 
 cookbook.md:
 This file details the dataset content.
