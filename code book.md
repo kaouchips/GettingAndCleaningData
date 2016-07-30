@@ -12,25 +12,25 @@ Each row represents a window sample for a subject performing an activity.
 More information can be found at: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 # Columns Nomenclature
-These columns are all the possible columns in data.txt.
-A subset of them is available in tidy_data.txt 
+These columns are all the possible columns in data.txt.  
+A subset of them is available in tidy_data.txt   
 (the columns: subject_id, activity and all the columns with mean or standard deviation (std) values).
 
-source_id:
-1: data source is train data
+source_id:  
+1: data source is train data  
 2: data source is test data
 
-subject_id:
-Identifier indicating  the subject who performed the activity for each row. 
+subject_id:  
+Identifier indicating  the subject who performed the activity for each row.   
 Its range is from 1 to 30.
 
 activity:
-WALKING
-WALKING_UPSTAIRS
-WALKING_DOWNSTAIRS
-SITTING
-STANDING
-LAYING
+- WALKING  
+- WALKING_UPSTAIRS  
+- WALKING_DOWNSTAIRS  
+- SITTING  
+- STANDING  
+- LAYING  
 
 
 Features columns:
